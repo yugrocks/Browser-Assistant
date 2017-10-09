@@ -1,0 +1,17 @@
+forward _/
+backward _/
+type _/
+reload _/ 
+down _/
+up _/
+stop_scroll _/
+next_input _/
+previous_input _/
+submit _/
+click _/
+search _/
+quit _/
+erase _/
+change_tab _/
+open_new_tab _/
+close_tab _/

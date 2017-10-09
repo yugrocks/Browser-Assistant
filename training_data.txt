@@ -1,0 +1,204 @@
+next page please , forward
+next page , forward
+forward , forward
+move to the next page , forward
+can you please move to the next page, forward
+move forward, forward
+take me to the next page, forward
+do forward, forward
+go forward, forward
+previous page please, backward
+previous, backward
+backspace, backward
+take me to the previous page please, backward
+back, backward
+move to the previous page, backward
+go back, backward
+press backspace, backward
+can we go back, backward
+previous page, backward
+do backspace, backward
+go backward, backward
+backward, backward
+type in, type
+type in the browser, type
+start typing, type
+enter text, type
+input this inside the text box, type
+start entering text, type
+write, type
+write in the text box, type
+type in please, type
+input text into the text box, type
+input, type
+fill in some text, type
+fill in, type
+start writing, type
+start writing in the input, type
+type inside the input, type
+enter some input, type
+type, type
+type some text, type
+reload, reload
+reload the page please, reload
+refresh, reload
+refresh the page please, reload
+refresh it, reload
+can you reload the page for me, reload
+can you pleae refresh the page, reload
+load the page again, reload
+load again, reload
+can the page be loaded again, reload
+scroll, down
+scroll the page down, down
+take me down, down
+down, down
+go down, down
+go downwards, down
+downwards, down
+scroll it down, down
+scroll down, down
+let go down, down
+go lower, down
+low, down
+lower, down
+scroll lower, down
+start scrolling, down
+lower down, down
+scroll up, up
+scroll upwards, up
+scroll upward, up
+scroll the page up, up
+up, up
+go up, up
+go upwards, up
+upwards, up
+scroll it up, up
+let go up, up
+go high, up
+higher, up
+go higher, up
+scroll higher, up
+start scrolling upwards, up
+start scrolling up, up
+stop, stop_scroll
+stop scroll, stop_scroll
+stop scrolling, stop_scroll
+enough, stop_scroll
+enough scrolling, stop_scroll
+do not scroll, stop_scroll
+not scroll, stop_scroll
+no scroll , stop_scroll
+enough of this scrolling, stop_scroll
+do not scroll anymore, stop_scroll
+dont scroll, stop_scroll
+cease scrolling, stop_scroll
+next, next_input
+next input, next_input
+switch to next input, next_input
+turn to next, next_input
+type in the next input, next_input
+type in the next box, next_input
+next one, next_input
+change input, next_input
+change, next_input
+next input please, next_input
+next one please, next_input
+switch input, next_input
+go to next input, next_input
+previous input please, previous_input
+last input, previous_input
+switch to previous input, previous_input
+turn to previous, previous_input
+type in the previous input, previous_input
+type in the previous box, previous_input
+previous one, previous_input
+switch to previous input, previous_input
+switch to previous, previous_input
+go to previous input, previous_input
+submit, submit
+submit the form, submit
+click submit, submit
+ok submit, submit
+ok done, submit
+go, submit
+press submit button, submit
+submit the input, submit
+submit form, submit
+do the form, submit
+okay done submit, submit
+click, click
+click on, click
+click on the link , click
+click the link, click
+click link, click
+click the button, click
+press the button, click
+press, click
+press the link, click
+follow the link, click
+follow link, click
+follow this link, click
+click this, click
+click it, click
+press this link, click
+go with this link, click
+go to the link, click
+go to link, click
+open the link, search
+search for, search
+search, search
+look up for, search
+look up, search
+search the web for, search
+open, search
+search web, search
+search this word for me, search
+google it, search
+google search, search
+google, search
+yahoo, search
+bing, search
+quit, quit
+exit, quit
+shut down, quit
+turn off, quit
+exit the browser, quit
+quit the browser, quit
+fuck off, quit
+bye, quit
+good bye, quit
+shutdown, quit
+erase, erase
+clear the input, erase
+clear, erase
+erase the input, erase
+empty the input box, erase
+empty, erase
+clear the box, erase
+delete, erase
+delete the text, erase
+delete the input, erase
+delete all, erase
+delete everything, erase
+change the tab please, change_tab
+change tab, change_tab
+switch tab, change_tab
+next tab, change_tab
+previous tab, change_tab
+previous tab please, change_tab
+switch to the previous tab,change_tab
+switch to the next tab, change_tab
+open new tab please, open_new_tab
+open tab, open_new_tab
+new tab, open_new_tab
+one more tab, open_new_tab
+another tab, open_new_tab
+open another tab, open_new_tab
+close tab,close_tab
+close this tab, close_tab
+close the tab please, close_tab
+exit this tab, close_tab
+exit tab, close_tab
+quit tab, close_tab
+quit this tab, close_tab

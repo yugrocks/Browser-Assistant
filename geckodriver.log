@@ -1,0 +1,151 @@
+1507448918653	geckodriver	INFO	Listening on 127.0.0.1:5067
+1507448920788	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507448921298	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507448922603	Marionette	INFO	Enabled via --marionette
+[Child 10052] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10052] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507448927767	Marionette	INFO	Listening on port 5073
+1507448928362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507448928462	Marionette	DEBUG	Register listener.js for window 4294967297
+1507448928515	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507448930549	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507448930550	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: http://localhost:8000/, line 38981: ReferenceError: webkitSpeechRecognition is not defined
+1507448933978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://localhost:8000/"
+1507448935210	Marionette	DEBUG	Received DOM event "pageshow" for "http://localhost:8000/"
+1507448950638	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507449014548	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507449024517	Marionette	DEBUG	Received DOM event "beforeunload" for "http://localhost:8000/"
+1507449025000	Marionette	DEBUG	Received DOM event "pagehide" for "http://localhost:8000/"
+1507449025009	Marionette	DEBUG	Received DOM event "unload" for "http://localhost:8000/"
+1507449025059	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/#safe=off&q=kon%20search%20Hospital%20varsity"
+1507449025085	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/#safe=off&q=kon%20search%20Hospital%20varsity"
+1507449026210	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?safe=off&q=kon%20search%20Hospital%20varsity&cad=h"
+1507449027080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1507449027195	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?safe=off&q=kon%20search%20Hospital%20varsity&cad=h"
+1507449041330	Marionette	INFO	New connections will no longer be accepted
+1507457189406	geckodriver	INFO	Listening on 127.0.0.1:1115
+1507457191532	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507457192036	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507457193736	Marionette	INFO	Enabled via --marionette
+[Child 11156] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11156] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2400FC,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/extension-process-script.js, line 339: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+1507457198713	Marionette	INFO	Listening on port 1121
+1507457199109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507457199257	Marionette	DEBUG	Register listener.js for window 4294967297
+1507457199325	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507457201394	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507457201401	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507457201402	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507457201550	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=connectionFailure&u=http%3A//localhost%3A8000/&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8000."
+[Child 2872] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7324] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1507457239467	geckodriver	INFO	Listening on 127.0.0.1:1163
+1507457241597	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507457242107	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507457243535	Marionette	INFO	Enabled via --marionette
+[Child 392] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 392] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507457248377	Marionette	INFO	Listening on port 1169
+1507457249186	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507457249289	Marionette	DEBUG	Register listener.js for window 4294967297
+1507457249356	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507457251905	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507457251906	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507457252326	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=1PjZWcuKILSA8QfF3JPoCg&gws_rd=ssl"
+1507457253221	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1507457253679	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=1PjZWcuKILSA8QfF3JPoCg&gws_rd=ssl"
+1507457264436	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=1PjZWcuKILSA8QfF3JPoCg&gws_rd=ssl"
+1507457264741	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=1PjZWcuKILSA8QfF3JPoCg&gws_rd=ssl"
+1507457264742	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=1PjZWcuKILSA8QfF3JPoCg&gws_rd=ssl"
+1507457264770	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/#safe=off&q=Facebook"
+1507457264789	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/#safe=off&q=Facebook"
+1507457264791	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1507457265847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?safe=off&q=Facebook&cad=h"
+1507457266426	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1507457267104	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?safe=off&q=Facebook&cad=h"
+1507457271715	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/search?safe=off&q=Facebook&cad=h"
+1507457271796	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/search?safe=off&q=Facebook&cad=h"
+1507457271799	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/search?safe=off&q=Facebook&cad=h"
+1507457271989	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=1PjZWcuKILSA8QfF3JPoCg&gws_rd=ssl"
+1507457272014	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1507457272498	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967312"
+1507457272668	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=1PjZWcuKILSA8QfF3JPoCg&gws_rd=ssl"
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+[Child 8696] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5104] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1507457482397	geckodriver	INFO	Listening on 127.0.0.1:1268
+1507457484609	geckodriver::marionette	INFO	Starting browser \\?\C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507457485107	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507457486504	Marionette	INFO	Enabled via --marionette
+[Child 6712] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6712] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1507457490896	Marionette	INFO	Listening on port 1274
+1507457491032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507457491143	Marionette	DEBUG	Register listener.js for window 4294967297
+1507457491212	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507457494811	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507457494812	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507457495293	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=xvnZWffcE7OA8QeNq464Cg&gws_rd=ssl"
+1507457495512	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=xvnZWffcE7OA8QeNq464Cg&gws_rd=ssl"
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+1507457985440	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=xvnZWffcE7OA8QeNq464Cg&gws_rd=ssl"
+1507457986066	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=xvnZWffcE7OA8QeNq464Cg&gws_rd=ssl"
+1507457986077	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=xvnZWffcE7OA8QeNq464Cg&gws_rd=ssl"
+1507457986112	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/#safe=off&q=Facebook"
+1507457986162	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/#safe=off&q=Facebook"
+1507457986164	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967305"
+1507457987222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?safe=off&q=Facebook&cad=h"
+1507457987700	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1507457988315	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?safe=off&q=Facebook&cad=h"
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: resource://gre/modules/XPCOMUtils.jsm, line 266: TypeError: Cc[aContract] is undefined
+[Child 10776] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+serve()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1507458044495	Marionette	INFO	Enabled via --marionette
+1507458049005	Marionette	INFO	Listening on port 1698
+1507458050060	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507458050182	Marionette	DEBUG	Register listener.js for window 4294967297
+1507458050296	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507458052864	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507458052865	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507458053500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=9fvZWa2JHJGN8Qf79xk&gws_rd=ssl"
+1507458055488	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1507458055915	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=9fvZWa2JHJGN8Qf79xk&gws_rd=ssl"
+1507458122578	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=9fvZWa2JHJGN8Qf79xk&gws_rd=ssl"
+1507458122883	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=9fvZWa2JHJGN8Qf79xk&gws_rd=ssl"
+1507458122890	Marionette	DEBUG	Received DOM event "unload" for "https://www.google.co.in/?gfe_rd=cr&dcr=0&ei=9fvZWa2JHJGN8Qf79xk&gws_rd=ssl"
+1507458122937	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/#safe=off&q=YouTube"
+1507458122978	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/#safe=off&q=YouTube"
+1507458122980	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1507458124404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.co.in/search?safe=off&q=YouTube&cad=h"
+1507458124778	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1507458125237	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.co.in/search?safe=off&q=YouTube&cad=h"
+1507458131666	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 378: NS_ERROR_FILE_NOT_FOUND: Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [nsIJumpListShortcut.app]
+JavaScript error: https://static.doubleclick.net/879366/DARTIFrame_200_208.js, line 6: TypeError: a is null
+[Parent 7716] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
